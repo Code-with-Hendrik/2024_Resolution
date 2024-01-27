@@ -4,3 +4,4 @@
 2. Make at least 20 C++ projects
 3. Good in GIT and GitHub
 4. Upload all the learning files and projects in GitHub
+5. Learning Algorithm and Data Structure
