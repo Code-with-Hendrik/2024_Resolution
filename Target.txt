@@ -1,0 +1,6 @@
+2024 Target:
+
+1. Consistent to learn C++17 Programming everyday at least 1 hr/day
+2. Make at least 20 C++ projects
+3. Good in GIT and GitHub
+4. Upload all the learning files and projects in GitHub
