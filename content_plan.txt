@@ -1,4 +1,6 @@
 My New Content Plan :
 
 1. C++ Desktop Application
+   -- With QT
 2. C++ Game
+   -- with SFML
